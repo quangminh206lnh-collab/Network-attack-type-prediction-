@@ -1,0 +1,7 @@
+Create requirements.txt now:
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+jupyter
