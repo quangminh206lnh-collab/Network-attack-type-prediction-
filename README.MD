@@ -7,7 +7,7 @@ type (DDoS, Malware, Intrusion), mirroring real SOC intrusion detection systems.
 
 ## Dataset
 
-- Source: Github — Cybersecurity Attacks Dataset [https://github.com/AhmadAlsayed09/Cybersecurity-Attacks-Dataset]
+- Source: Github — Cybersecurity Attacks Dataset [https://github.com/incribo-inc/cybersecurity_attacks]
 - 40,000 rows, 25 features
 - Target: Attack Type (multiclass)
 
