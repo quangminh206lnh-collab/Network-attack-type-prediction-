@@ -10,6 +10,9 @@ type (DDoS, Malware, Intrusion), mirroring real SOC intrusion detection systems.
 - Source: Github — Cybersecurity Attacks Dataset [https://github.com/incribo-inc/cybersecurity_attacks]
 - 40,000 rows, 25 features
 - Target: Attack Type (multiclass)
+- This data set is heavily normalized and cleaned before, which reduces the presence of typical real-world patterns such as class imbalance, clustering, or temporal spikes.
+
+
 
 ## Approach
 
@@ -28,9 +31,7 @@ type (DDoS, Malware, Intrusion), mirroring real SOC intrusion detection systems.
 - [e.g. "Packet length and protocol type were the strongest predictors"]
 - [e.g. "DDoS was easiest to classify; Malware had most false negatives"]
 
-## Real-World Relevance
 
-[Connect to SIEM tools, IDS systems like Snort/Suricata — 2 sentences]
 
 ## How to Run
 
