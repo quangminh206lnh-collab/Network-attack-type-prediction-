@@ -1,0 +1,8 @@
+Dataset Problems Identified:
+1. Perfectly balanced classes (synthetic)
+2. Uniform distributions (temporal patterns missing)
+3. ~0% feature-target correlation (no signal)
+4. Near-perfect Anomaly Score symmetry (artificial)
+5. Detection features mixed with pre-attack indicators (data leakage risk)
+
+Result: 33% accuracy ≈ random guessing on 3-class problem
