@@ -1,5 +1,18 @@
 # Cybersecurity Attack Type Prediction: Learning from a Failed Dataset
 
+## Table of Contents
+- [Overview](#overview)
+- [Dataset Overview](#dataset-overview)
+- [What Went Wrong (The Diagnosis)](#what-went-wrong-the-diagnosis)
+- [What I Learned](#what-i-learned)
+- [Technical Stack](#technical-stack)
+- [Project Structure](#project-structure)
+- [What I Would Improve Next Time](#what-i-would-improve-next-time)
+- [Key Takeaway](#key-takeaway)
+- [Repository](#repository)
+
+---
+
 ## Overview
 
 This project analyzes a synthetic cybersecurity dataset to predict attack types (DDoS, Malware, Intrusion) using machine learning. The model achieved ~33% accuracy on a 3-class problem—essentially random guessing. Rather than a failure of the model, this project reveals a fundamental lesson: **data quality determines ML success, not model complexity**.
