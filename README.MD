@@ -140,7 +140,7 @@ Real security dashboards have sophisticated visualizations—I should practice b
 
 This project succeeded by failing. I spent time on proper ML methodology (scaling, encoding, cross-validation, model comparison) but discovered the real lesson: **methodology only matters if your data has signal**.
 
-
+[View Cybersecurity Analysis Notebook](https://nbviewer.org/github/quangminh206lnh-collab/YOUR_REPO/blob/main/notebooks/cybersecurity_analysis.ipynb)
 
 ---
 
