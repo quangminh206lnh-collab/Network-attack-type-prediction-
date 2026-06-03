@@ -37,8 +37,7 @@ I calculated feature-target correlations across all numeric features:
 - Most correlations were near zero
 - A few weak correlations (<0.15) existed, but nothing meaningful
 - This means the features had no predictive signal for the target
-![Feature Correlations Heatmap](images\correlation_heatmap.png)
-
+![Graph](images/correlation_heatmap.png)
 ### 3. Weak Model Performance
 
 - **Logistic Regression:** 32.96% accuracy
